@@ -1,6 +1,6 @@
 # BookStore (Spring Boot)
 
-Java stack: Spring Boot, H2database, Lombok, Maven, Postgres.
+Java stack: Spring Boot, H2database, Lombok, Maven.
 
 Run: clone this repository --> open project in IDEA IDE.
 
