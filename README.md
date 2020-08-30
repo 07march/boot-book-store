@@ -1,4 +1,4 @@
-# BookStoreBoot
+# BookStore (Spring Boot)
 
 Java stack: Spring Boot, H2database, Lombok, Maven, Postgres.
 
